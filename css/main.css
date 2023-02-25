@@ -1,0 +1,23 @@
+@import url('../css/base/reset.css');
+@import url('../css/base/normalize.css');
+@import url('../css/base/container.css');
+@import url('../css/base/style.css');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Open+Sans:wght@300;400;700&family=Raleway:wght@300;400;500;700&display=swap');
+
+
+@import url('../css/cabecalho/cabecalho.css');
+@import url('../css/cabecalho/cabecalho-titulo-logo.css');
+@import url('../css/cabecalho/cabecalho-logo.css');
+@import url('../css/cabecalho/cabecalho-titulo.css');
+
+@import url('../css/menu/menu.css');
+@import url('../css/menu/menu-lista.css');
+@import url('../css/menu/menu-item.css');
+@import url('../css/menu/menu-link.css');
+
+@import url('../css/sobre/sobre.css');
+@import url('../css/sobre/sobre-texto.css');
+@import url('../css/sobre/sobre-titulo.css');
+@import url('../css/sobre/sobre-descricao.css');
+@import url('../css/sobre/sobre-foto.css');
