@@ -16,8 +16,16 @@
 @import url('../css/menu/menu-item.css');
 @import url('../css/menu/menu-link.css');
 
+@import url('../css/destaque/destaque.css');
+@import url('../css/destaque/destaque-texto.css');
+@import url('../css/destaque/destaque-titulo.css');
+@import url('../css/destaque/destaque-descricao.css');
+@import url('../css/destaque/destaque-foto.css');
+
+@import url('../css/redes-social/rede-social.css');
+@import url('../css/redes-social/rede-social__lista.css');
+@import url('../css/redes-social/rede-social__item.css');
+@import url('../css/redes-social/rede-social__link.css');
+
 @import url('../css/sobre/sobre.css');
-@import url('../css/sobre/sobre-texto.css');
-@import url('../css/sobre/sobre-titulo.css');
-@import url('../css/sobre/sobre-descricao.css');
-@import url('../css/sobre/sobre-foto.css');
+@import url('../css/sobre/sobre-container.css');
