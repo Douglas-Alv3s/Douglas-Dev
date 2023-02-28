@@ -29,3 +29,12 @@
 
 @import url('../css/sobre/sobre.css');
 @import url('../css/sobre/sobre-container.css');
+
+@import url('../css/skills-hobbies/skills-hobbies.css');
+@import url('../css/skills-hobbies/skills-hobbies_espacamento.css');
+@import url('../css/skills-hobbies/skills/skills.css');
+@import url('../css/skills-hobbies/skills/skills-titulo.css');
+@import url('../css/skills-hobbies/skills/skills-geral.css');
+@import url('../css/skills-hobbies/skills/skill-bloco.css');
+@import url('../css/skills-hobbies/skills/skills-itens.css');
+@import url('../css/skills-hobbies/skills/skills-icones.css');
