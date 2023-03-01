@@ -2,6 +2,7 @@
 @import url('../css/base/normalize.css');
 @import url('../css/base/container.css');
 @import url('../css/base/style.css');
+@import url('../css/base/botao.css');
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Open+Sans:wght@300;400;700&family=Raleway:wght@300;400;500;700&display=swap');
 
@@ -32,9 +33,36 @@
 
 @import url('../css/skills-hobbies/skills-hobbies.css');
 @import url('../css/skills-hobbies/skills-hobbies_espacamento.css');
+
 @import url('../css/skills-hobbies/skills/skills.css');
 @import url('../css/skills-hobbies/skills/skills-titulo.css');
 @import url('../css/skills-hobbies/skills/skills-geral.css');
-@import url('../css/skills-hobbies/skills/skill-bloco.css');
+@import url('../css/skills-hobbies/skills/skills-bloco.css');
 @import url('../css/skills-hobbies/skills/skills-itens.css');
 @import url('../css/skills-hobbies/skills/skills-icones.css');
+
+@import url('../css/skills-hobbies/hobbies/hobbies.css');
+@import url('../css/skills-hobbies/hobbies/hobbies-titulo.css');
+@import url('../css/skills-hobbies/hobbies/hobbies-geral.css');
+@import url('../css/skills-hobbies/hobbies/hobbies-bloco.css');
+@import url('../css/skills-hobbies/hobbies/hobbies-itens.css');
+@import url('../css/skills-hobbies/hobbies/hobbies-icones.css');
+
+@import url('../css/formacao-academica/formacao.css');
+@import url('../css/formacao-academica/formacao_titulo-principal.css');
+@import url('../css/formacao-academica/formacao-geral.css');
+@import url('../css/formacao-academica/formacao-bloco.css');
+@import url('../css/formacao-academica/formacao-quadrado.css');
+@import url('../css/formacao-academica/formacao-imagem.css');
+@import url('../css/formacao-academica/formacao-conteudo.css');
+@import url('../css/formacao-academica/formacao-titulo.css');
+@import url('../css/formacao-academica/formacao-descricao.css');
+
+@import url('../css/experiencia/experiencia.css');
+@import url('../css/experiencia/experiencia_titulo-principal.css');
+@import url('../css/experiencia/experiencia-bloco.css');
+@import url('../css/experiencia/experiencia-imagem.css');
+@import url('../css/experiencia/experiencia-conteudo.css');
+@import url('../css/experiencia/experiencia-titulo.css');
+@import url('../css/experiencia/experiencia-descricao.css');
+@import url('../css/experiencia/experiencia-botao.css');
