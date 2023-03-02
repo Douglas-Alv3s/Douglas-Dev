@@ -66,3 +66,21 @@
 @import url('../css/experiencia/experiencia-titulo.css');
 @import url('../css/experiencia/experiencia-descricao.css');
 @import url('../css/experiencia/experiencia-botao.css');
+
+@import url('../css/contato/contato.css');
+@import url('../css/contato/contato-geral.css');
+@import url('../css/contato/contato-imagem.css');
+@import url('../css/contato/contato-conteudo.css');
+@import url('../css/contato/contato-titulo.css');
+@import url('../css/contato/contato-descricao.css');
+@import url('../css/contato/contato-form.css');
+@import url('../css/contato/contato-input.css');
+@import url('../css/contato/contato-nome.css');
+@import url('../css/contato/contato-email.css');
+@import url('../css/contato/contato-assunto.css');
+@import url('../css/contato/contato-mensagem.css');
+@import url('../css/contato/contato-botao.css');
+
+@import url('../css/rodape/rodape.css');
+@import url('../css/rodape/rodape-titulo.css');
+@import url('../css/rodape/rodape-descricao.css');
